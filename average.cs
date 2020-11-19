@@ -1,6 +1,6 @@
 using System;
 
-public class AverageMark
+public class AverageMark  //Calculates and shows average value from numeric inputs until "end" is typed.
 {
     public static void Main()
     {
