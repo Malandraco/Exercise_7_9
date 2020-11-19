@@ -1,6 +1,6 @@
 using System;
 
-class NumbersPerDigit
+class NumbersPerDigit // Calculates the amount of digits of the introduced number. Shows the ammount of numbers in categories of one, two, three or more than three digits. 
 {
     static void Main()
     {
